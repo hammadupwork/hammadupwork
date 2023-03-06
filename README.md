@@ -1,26 +1,23 @@
 ![logo](https://github.com/hammadupwork/hammadupwork/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
 
 <h1 align="center">Hey There! I'm Hammad Khan.👋</h1>
-<h3 align="center">A passionate developer & graphic designer from Pakistan!</h3>
+<h3 align="center">A passionate Developer, Website Designer & Graphic Designer from Pakistan!</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/107892301/223050955-59bb8ccc-c456-480b-aae6-2f431058f589.gif">
 
-- 🔭 I’m currently working on [various projects](https://www.figma.com/file/Gyyy1PtVf46ss6AjrGr3OE/Qbix-Data-Solution?node-id=0%3A1)
+- 🔭 I’m currently working on a [Prototype](https://www.figma.com/file/Gyyy1PtVf46ss6AjrGr3OE/Qbix-Data-Solution?node-id=0%3A1)
 
-- 🌱 I’m currently learning **frameworks, prototyping and development.**
+- 🌱 I’m currently learning more about **Frameworks, Prototyping, Development & Designing.**
 
 - 👯 I’m looking to collaborate on **Development Projects & Designing Projects**
 
-- 🤝 I’m looking for help with **certain Projects**
+- 👨‍💻 You can find most of My Work at [My Google Drive](https://drive.google.com/drive/u/0/folders/1fQULwES1SJxZMGukMeWopYPsVmRi8Vxl)
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/u/0/folders/1fQULwES1SJxZMGukMeWopYPsVmRi8Vxl](https://drive.google.com/drive/u/0/folders/1fQULwES1SJxZMGukMeWopYPsVmRi8Vxl)
+- 💬 You can ask me about **html, css, java, figma, adobe etc.**
 
-- 💬 Ask me about **html, css, java, figma, adobe etc.**
+- 📫 How to reach me?**hammad.wigatech@gmail.com**
 
-- 📫 How to reach me **hammad.wigatech@gmail.com**
-
-- ⚡ Fun fact **Its fun to work with me as I keep things brief, relevant & appropriate.**
-
+- ⚡ The Best Part? Work is fun me as I like to keep things Brief, Relevant & Appropriate.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wiga-studio-b08581236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wiga-studio-b08581236" height="30" width="40" /></a>
