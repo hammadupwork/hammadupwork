@@ -1,6 +1,6 @@
 ![logo](https://github.com/hammadupwork/hammadupwork/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Hammad Khan</h1>
+<h1 align="center">Hey There! I'm Hammad Khan.👋</h1>
 <h3 align="center">A passionate developer & graphic designer from Pakistan!</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/107892301/223050955-59bb8ccc-c456-480b-aae6-2f431058f589.gif">
